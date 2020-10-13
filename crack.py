@@ -103,7 +103,7 @@ def masuk():
 	pilih_masuk()
 
 def pilih_masuk():
-	msuk = raw_input("\033[1;93mBY MILA SR \033[91m:\033[1;96m ")
+	msuk = raw_input("\033[1;93mBY RikoMrko \033[91m:\033[1;96m ")
 	if msuk =="":
 		print"\033[37;1m[\033[32;1m!\033[37;1m] Isi Yg Benar !"
 		pilih_masuk()
