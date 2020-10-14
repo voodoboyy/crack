@@ -305,7 +305,7 @@ def indo():
 
 #### PILIH INDO ####
 def pilih_indo():
-	teak = raw_input("\033[1;93mBY WAHYU \033[91m:\033[1;96m ")
+	teak = raw_input("\033[1;93mBY RikoMrko \033[91m:\033[1;96m ")
 	if teak =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih_indo()
@@ -367,7 +367,7 @@ def pilih_indo():
 
 	print "\n\033[1;31;1m=========================================="
         print "\n\033[1;96mJANGAN MENYALAH GUNAKAN SCRIPT INI YA BOSS"
-        print "\n\033[1;33mBY KHAIRUL FATIHIN"
+        print "\n\033[1;33mBY RikoMrko"
 	print "\n\033[37;1m=========================================="
 	
 ##### MAIN INDONESIA #####
